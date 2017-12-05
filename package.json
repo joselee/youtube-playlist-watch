@@ -1,0 +1,26 @@
+{
+  "name": "youtube-playlist-watch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joselee/youtube-playlist-watch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joselee/youtube-playlist-watch/issues"
+  },
+  "homepage": "https://github.com/joselee/youtube-playlist-watch#readme",
+  "dependencies": {
+    "async": "^2.6.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "progress-stream": "^2.0.0",
+    "ytdl-core": "^0.18.3",
+    "ytpl": "^0.1.9"
+  }
+}
